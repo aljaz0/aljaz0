@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aljaz0
-- 👀 I’m interested in primarily in C# on .Net platform. I have previously done a lot of work with Visual Basic 6 (and previous versions way back in the past) 
+- 👀 I’m interested primarily in C# on .Net platform. I have previously done a lot of work with Visual Basic 6 (and previous versions way back in the past) 
      I have just recently created a github profile to become active in the open source community.
 
 
